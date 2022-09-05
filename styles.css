@@ -1,0 +1,22 @@
+h1{
+    background-color: deepskyblue;
+    color: darkgoldenrod;
+    cursor: not-allowed;
+    user-select: none;
+}
+html{
+    background-color: deepskyblue;
+}
+nav{
+    font: bold;
+    font-size: larger;
+    color: darkgreen
+}
+li{
+    font-size: larger;
+    color: darkgreen;
+}
+a{
+    color: darkgreen;
+    font-size: larger;
+}
